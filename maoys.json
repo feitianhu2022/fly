@@ -266,11 +266,7 @@
       "type": 2,
       "url": "Sequence"
     },
-   {
-      "name": "万新",
-      "type": 1,
-      "url": "https://jx.xiaot.cc:2222/api/?url="
-    },
+    {"name":"万新","type":1,"url":"https://jx.xiaot.cc:2222/api/?url="},
     {
       "name": "未知",
       "type": 1,
