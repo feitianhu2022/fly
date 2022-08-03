@@ -16,6 +16,7 @@
       "filterable": 1,
       "ext": "http://121.205.88.178:8090/xgapp.php/v2/"
     },
+{"key": "学堂","name": "标榜学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/DS/27/raw/branch/main/%E5%AD%A6%E5%A0%82.json"},
 {"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"KanSJ_spider","name":"🗽看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
