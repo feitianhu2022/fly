@@ -337,6 +337,11 @@
    {"name":"解析聚合","type":3,"url":"Demo"},
     {"name":"Json并发","type":2,"url":"Parallel"},
     {"name":"Json轮询","type":2,"url":"Sequence"},
+{
+      "name":"极速1号",
+      "type":1,
+      "url":"https://play.fuqizhishi.com/mov/API.php?appkey=QQ172598364&url="
+    },
     {"name":"fuqi","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="},
 {
       "name": "293",
@@ -362,11 +367,6 @@
       "name": "aiku",
       "type": 1,
       "url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=bhjknprtuyACFIWY78&url="
-    },
-{
-      "name":"极速1号",
-      "type":1,
-      "url":"https://play.fuqizhishi.com/mov/API.php?appkey=QQ172598364&url="
     },
 {
       "name": "nxflv",
