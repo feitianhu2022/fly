@@ -5,7 +5,6 @@
 "sites":[
 {"key":"csp_77","name":"🎬77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppYsV2","name":"🚁优众影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.178:8090/xgapp.php/v2/"},
-{"key":"桔子tv","name":"桔子(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.staticaly.com/gh/feitianhu2022/TV/main/json/桔子tv.json"},
 {"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"KanSJ_spider","name":"🗽看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
@@ -291,6 +290,16 @@
       "quickSearch":1,
       "filterable":0,
       "ext":"https://cdn.staticaly.com/gh/feitianhu2022/TV/main/json/茶杯狐.json"
+    },
+      {
+      "key":"csp_XPathMacFilter",
+      "name":"桔子tv",
+      "type":3,
+      "api":"csp_XPathMacFilter",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"https://cdn.staticaly.com/gh/feitianhu2022/TV/main/json/桔子tv.json"
     },
       {
       "key": "csp_xpath_miao",
