@@ -4,6 +4,7 @@
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "sites":[
 {"key":"csp_77","name":"🎬77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_AppYsV2","name":"🚁优众影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.178:8090/xgapp.php/v2/"},
 {"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"KanSJ_spider","name":"🗽看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
@@ -71,16 +72,6 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/MaooXP/kuqimv.json"
-    },
-{
-      "key":"csp_AppYsV2",
-      "name": "🚁优众影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://121.205.88.178:8090/xgapp.php/v2/"
     },
 {
       "key": "csp_biubiu_蓝光影院",
