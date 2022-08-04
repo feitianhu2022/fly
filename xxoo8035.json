@@ -308,6 +308,16 @@
       "filterable":0,
       "ext":"https://cdn.staticaly.com/gh/feitianhu2022/TV/main/json/茶杯狐.json"
     },
+      {
+      "key": "csp_xpath_miao",
+      "name": "喵喵(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cdn.staticaly.com/gh/feitianhu2022/TV/main/json/miaomiao.json"
+    },
     {
       "key": "csp_xml___小猫咪",
       "name": "🐝小猫咪(采)",
