@@ -292,10 +292,10 @@
       "ext":"https://cdn.staticaly.com/gh/feitianhu2022/TV/main/json/茶杯狐.json"
     },
       {
-      "key":"csp_XPathFilter",
+      "key":"桔子tv",
       "name":"桔子tv",
       "type":3,
-      "api":"csp_XPathFilter",
+      "api":"csp_XBiubiu",
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
