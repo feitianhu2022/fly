@@ -376,12 +376,16 @@
         }
       }
     },
+{"name":"云you秒播②","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
+{"name":"解析人迷","type":0,"url":"https://jx.blbo.cc:4433/?url="},
+{"name":"解析最先","type":0,"url":"https://jx.zui.cm/?url="},
+{"name":"解析诺讯","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
+{"name":"tvjx2","type":1,"url":"http://150.230.216.174/tvjx.php?url="},
    {
       "name": "aiku",
       "type": 1,
       "url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=bhjknprtuyACFIWY78&url="
     },
-{"name":"tvjx2","type":1,"url":"http://150.230.216.174/tvjx.php?url="},
 {
       "name": "nxflv",
       "type": 1,
