@@ -36,7 +36,16 @@
 {"key": "csp_Bili","name":"🅱哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://ftyyy.tk/json/Bili.json"},
 {"key": "csp_Biliych","name":"🅱哔哩演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://ftyyy.tk/json/Biliych.json"},
 {"key": "学堂","name": "标榜学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/DS/27/raw/branch/main/%E5%AD%A6%E5%A0%82.json"},
-{"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
+{
+  "key": "Gitcafe",
+  "name": "🐞小纸条",
+  "type": 3,
+  "api": "csp_GitCafe",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "dcbc975ad0684eb5a498ecd1836272e6"
+ },
 {"key":"csp_Alips","name":"🐱喵搜(搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
 {"key":"FindZY","name":"😺找资源(搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"push_agent","name":"😺推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":""},
