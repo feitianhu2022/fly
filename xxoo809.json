@@ -372,29 +372,6 @@
       "url":"https://play.fuqizhishi.com/mov/API.php?appkey=QQ172598364&url="
     },
 {"name":"云you秒播②","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
-{
-      "name": "高速接口",
-      "type": 0,
-      "url": "https://jsap.attakids.com/?url=",
-      "ext": {
-        "flag": [
-          "ltnb",
-          "renrenmi",
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
-    },
     {
       "name":"油果",
       "type":1,
