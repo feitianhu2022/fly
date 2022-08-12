@@ -1,0 +1,11 @@
+1、hosts文件地址：C:\Windows\System32\drivers\etc
+2、末尾增加四行代码：
+# github
+140.82.112.3 github.com
+151.101.1.194 github.global.ssl.fastly.net
+185.199.108.153 assets-cdn.github.com
+3、cmd里输入ipconfig/flushdns 重置DNS
+4、完成
+5、查询域名的IP地址网站：
+ http://ip.tool.chinaz.com/
+ https://www.ipaddress.com/
