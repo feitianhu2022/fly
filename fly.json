@@ -300,6 +300,13 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
+{"name":"主解析7","url":"http://123.56.222.84:2025/iphones/100.php?url="}, 
+{"name":"主解析1","url":"http://tgjx.itcker.com/api/?key=u7eWwiakUR1L6KS4sj&url="},
+{"name":"主解析2","url":"https://jisu.rongxingvr.top/api/rxm3u8.php?key=JGM0Kc1Sz0xCJnRMcY&url="},
+{"name":"主解析3","url":"http://124.222.68.182/jiexi/4kJX.php/?url="},
+{"name":"主解析4","url":"https://vip.byteamone.cn/api/?key=rpPXBo57OXwYBnirql&url="},
+{"name":"主解析5","url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
+{"name":"主解析6","url":"http://qiqi.520say.cn/json/dd.php?url="}
 {"name":"parwix1","type":0,"url":"https://jx.parwix.com:4433/player/?url="},
 {"name":"parwix2","type":0,"url":"https://jx.parwix.com:4433/player/analysis.php?v="},
 {"name":"07","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},     
