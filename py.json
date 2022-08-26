@@ -7,7 +7,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://kvymin.github.io/CatVod/T4/plugin/py_bilibili.py"
+		"ext": "https://feitianhu.top/py/py_bilibili.py"
 	}, {
 		"key": "py_zxzj",
 		"name": "在线之家",
@@ -16,7 +16,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://kvymin.github.io/CatVod/T4/plugin/py_zxzj.py"
+		"ext": "https://feitianhu.top/py/py_zxzj.py"
 	}, {
 		"key": "py_voflix",
 		"name": "Voflix",
@@ -25,7 +25,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://kvymin.github.io/CatVod/T4/plugin/py_voflix.py"
+		"ext": "https://feitianhu.top/py/py_voflix.py"
 	},{
 		"key": "py_gimytv",
 		"name": "剧迷",
@@ -34,7 +34,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://kvymin.github.io/CatVod/T4/plugin/py_gimytv.py"
+		"ext": "https://feitianhu.top/py/py_gimytv.py"
 	},{
 		"key": "py_genmov",
 		"name": "跟剧",
@@ -43,7 +43,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://kvymin.github.io/CatVod/T4/plugin/py_genmov.py"
+		"ext": "https://feitianhu.top/py/py_genmov.py"
 	},{
 		"key": "py_cokemv",
 		"name": "COKE",
@@ -52,7 +52,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://kvymin.github.io/CatVod/T4/plugin/py_cokemv.py"
+		"ext": "https://feitianhu.top/py/py_cokemv.py"
 	}, {
 		"key": "py_xmaomi",
 		"name": "猫咪",
@@ -61,7 +61,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://kvymin.github.io/CatVod/T4/plugin/py_xmaomi.py"
+		"ext": "https://feitianhu.top/py/py_xmaomi.py"
 	}, {
 		"key": "py_zhaozy",
 		"name": "找资源",
@@ -70,7 +70,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://kvymin.github.io/CatVod/T4n/plugin/py_zhaozy.py"
+		"ext": "https://feitianhu.top/py/py_zhaozy.py"
 	}, {
 		"key": "py_pansou",
 		"name": "盘搜",
@@ -79,7 +79,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://kvymin.github.io/CatVod/T4/plugin/py_pansou.py"
+		"ext": "https://feitianhu.top/py/py_pansou.py"
 	}, {
 		"key": "push_agent",
 		"name": "阿里",
@@ -88,7 +88,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 0,
-		"ext": "https://kvymin.github.io/CatVod/T4/plugin/py_ali.py"
+		"ext": "https://feitianhu.top/py/py_ali.py"
 	}],
 	"parses": [{
 		"name": "默认选项",
