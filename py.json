@@ -116,7 +116,7 @@
 {"name":"乐多","type":1,"url":"https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid="},
 {"name":"tvjx2","type":1,"url":"http://150.230.216.174/tvjx.php?url="},
 {"name":"ok1","type":0,"url":"https://okjx.cc/?url="},
-{"name":"ok2","type":0,"url":"https://api.okjx.cc:3389/jx.php?url="} 	   
+{"name":"ok2","type":0,"url":"https://api.okjx.cc:3389/jx.php?url="}, 	   
 		   {
 		"name": "01",
 		"type": 1,
