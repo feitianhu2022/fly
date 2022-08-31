@@ -26,7 +26,7 @@
 {"key":"csp_Alist1","name":"🅿Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"妙妙屋$https://anime.mqmmw.ga#晴园$https://alist.52qy.repl.co#小光盘$https://alist.xiaoguanxiaocheng.life#资源小站$https://960303.xyz/#菊花盘$https://pan.142856.xyz#帅盘$https://hi.shuaipeng.wang#轻弹浅唱$https://g.xiang.lol#嗨翻$https://pan.hikerfans.com","jar":"https://神器每日推送.tk/jar/alist.jar;md5;285d80f6e19e2613ea305083f84bd95a"},
 //常用
 {"key":"KanSJ_spider","name":"🗽看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"csp_77","name":"🎬77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://feitianhu.top/jar/ts.zip;md5;2F19C527B9A335FB1415C5F9686515C8"},
+{"key":"csp_777","name":"🎬77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://feitianhu.top/jar/ts.zip;md5;2F19C527B9A335FB1415C5F9686515C8"},
 {"key":"csp_77","name":"新77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://feitianhu.top/jar/77.zip;md5;1B0FAE7C99B09C6F66D6C39B114580A9"},
 {"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
