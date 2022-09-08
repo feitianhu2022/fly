@@ -9,3 +9,4 @@
 5、查询域名的IP地址网站：
  http://ip.tool.chinaz.com/
  https://www.ipaddress.com/
+好像只把第一行的IP弄一下就好，剩下的不用弄。
