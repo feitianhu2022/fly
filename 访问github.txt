@@ -9,4 +9,3 @@
 5、查询域名的IP地址网站：
  http://ip.tool.chinaz.com/
  https://www.ipaddress.com/
-#有点不准
