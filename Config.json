@@ -1,5 +1,5 @@
 { 
-  "spider": "https://神器每日推送.tk/jar;md5;5c69d5c0f11765373f35d2078e892d0c",
+  "spider": "https://神器每日推送.tk/jar;md5;610afb6bb32e7c6d8aef182883702ad1",
  "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbTdyNDEyYWR2YjkyajIxc3Q2NWEudGsvdHYudHh0Cg=="]}]}],
 "sites":[
 {"key":"ai","name":"爱(解析)","type":3,"api":"csp_IQIYI","quickSearch":0,"searchable":0,"filterable":1},
