@@ -1,7 +1,7 @@
 ﻿﻿{
 "spider":"http://feitianhu.top/jar/1010.jar;md5;f9ef6c3f597f2539b8be3a0cbc291de0",
 "wallpaper":"http://壁纸.神器每日推送.tk",
-"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9mZWl0aWFuaHUudG9wL2xpdmUvdHYudHh0"]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9mZWl0aWFuaHUudG9wL2xpdmUvbGl2ZS50eHQ="]}]}],
  
 "sites":[
 //bili教育
