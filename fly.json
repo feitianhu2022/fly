@@ -1,15 +1,15 @@
 ﻿﻿{
-"spider":"http://feitianhu.top/jar/1010.jar;md5;f9ef6c3f597f2539b8be3a0cbc291de0",
+"spider":"./jar/1010.jar;md5;f9ef6c3f597f2539b8be3a0cbc291de0",
 "wallpaper":"http://壁纸.神器每日推送.tk",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9mZWl0aWFuaHUudG9wL2xpdmUvbGl2ZS50eHQ="]}]}],
  
 "sites":[
 //bili教育
-{"key":"幼儿乐园","name":"📚幼儿乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://feitianhu.top/json/幼儿乐园.json"},
-{"key":"少儿教育","name":"📚少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://feitianhu.top/json/少儿教育.json"},
-{"key":"小学课堂","name":"📚小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://feitianhu.top/json/小学课堂.json"},
-{"key":"初中课堂","name":"📚初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://feitianhu.top/json/初中课堂.json"},
-{"key":"高中教育","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://feitianhu.top/json/高中课堂.json"},
+{"key":"幼儿乐园","name":"📚幼儿乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./幼儿乐园.json"},
+{"key":"少儿教育","name":"📚少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/少儿教育.json"},
+{"key":"小学课堂","name":"📚小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/小学课堂.json"},
+{"key":"初中课堂","name":"📚初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./初中课堂.json"},
+{"key":"高中教育","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./高中课堂.json"},
 //官采
 {"key":"ai","name":"爱(解析)","type":3,"api":"csp_IQIYI","quickSearch":0,"searchable":0,"filterable":1},
 {"key":"teng","name":"腾(解析)","type": 3,"api":"csp_QQ","searchable": 0,"quickSearch": 0,"filterable": 1},
@@ -95,7 +95,8 @@
  ],
 "rules": [
 {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
-{"host":"*", "rule":["365yg.com", "/media-video-", "/video/tos/cn/"]}
+{"host":"*", "rule":["default.365yg.com", "/video/tos/cn/"]},
+{"host":"zjmiao.com", "rule":["play.videomiao.vip/API.php", "time=", "key=", "path="]}
 ],
 
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905 ","funshion ","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩"],
