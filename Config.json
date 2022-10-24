@@ -1,5 +1,5 @@
 { 
-"spider":"http://.jar/1003.jar;md5;087914a45cc988d96581defbc3eeb2f4",
+"spider":"./jar/22.jar;md5;709d58df2f7c58d439e74212a11be7fa",
 "wallpaper":"http://壁纸.神器每日推送.tk",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9mZWl0aWFuaHUudG9wL2xpdmUvdHYudHh0"]}]}],
 "sites":[
