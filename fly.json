@@ -12,7 +12,7 @@
 {"key": "sohu","name": "搜狐","type": 0,"api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/sohu/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","少儿","其他片"]},      
 {"key": "PpTV","name": "PPTV","type": 0,"api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","少儿","其他片"]},
 
-{"key":"js豆瓣","name":"🅱豆瓣热播┃神器妹推荐首页","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js"},
+{"key":"js豆瓣","name":"🅱豆瓣热播","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js"},
 {"key":"csp_Bili","name":"🅱哔哩合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch":0,"filterable": 1,"ext":"./json/bilibili.json"},
 {"key":"csp_Biliych","name":"🅱看演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./json/Biliych.json"},
 {"key":"csp_Alist1","name":"🅿Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/alist.json"},
