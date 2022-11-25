@@ -29,3 +29,4 @@ CCTV-15,http://125.40.191.58:9901/tsfile/live/0015_1.m3u8?blog.ntnas.top
 都市频道,http://125.40.191.58:9901/tsfile/live/1000_1.m3u8?blog.ntnas.top
 CHC家庭影院,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8?blog.ntnas.top
 CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8?blog.ntnas.top
+世界杯,http://nas.flyforever.eu.org:9527/zb.php?id=douyin&quality=
